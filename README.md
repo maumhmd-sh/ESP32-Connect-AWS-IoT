@@ -1,3 +1,13 @@
+# ESP32-Connect-AWS-IoT
+
+![ESP32 Badge](https://img.shields.io/badge/ESP32-DevKit-orange?style=flat-square)
+![AWS IoT Core Badge](https://img.shields.io/badge/AWS-IoT%20Core-blue?style=flat-square)
+![MQTT Badge](https://img.shields.io/badge/MQTT-Protocol-green?style=flat-square)
+
+This project demonstrates how to connect an ESP32 microcontroller to AWS IoT Core using MQTT. It showcases bidirectional communication between the device and the cloud, enabling real-time data exchange for IoT applications.
+
+---
+
 ## 🛠️ Setup and Configuration Guide
 
 Follow these steps to connect your ESP32 to AWS IoT Core and run the example code successfully.
