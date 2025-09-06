@@ -75,14 +75,6 @@ This output indicates successful communication with both Wi-Fi and AWS IoT Core,
 
 ---
 
-## 📚 Learn More
-
-For a detailed tutorial on connecting an ESP32 to AWS IoT Core, refer to this guide:
-
-[ESP32 + AWS IoT Core Tutorial](https://esp32io.com/tutorials/esp32-aws-iot?utm_source=chatgpt.com)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
